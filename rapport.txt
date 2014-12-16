@@ -1,0 +1,2 @@
+impossible de mettre une clé étrangère sur le champs refvisiteur vers idvisiteur
+probleme résolu changement du nom de la table de "forfait tel" à "forfaittel"
